@@ -19,3 +19,4 @@ You can find me on following website :
   - [Codewars](https://www.codewars.com/users/Ezok)
   - [HackerRank](https://www.hackerrank.com/pierre_sicallac)
   - [CSS Battle](https://cssbattle.dev/player/IBIEWtHFFYOAzkt9Z8bvKUZLkLm2)
+  - [Regex crossword](https://regexcrossword.com/profile/83272)
